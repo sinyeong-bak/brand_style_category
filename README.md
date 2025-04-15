@@ -25,12 +25,6 @@
 | `networkx` | 그래프 생성 |
 | `matplotlib` | 네트워크 시각화 |
 
-## 📁 파일 구성
-
-📦브랜드_무드_유사도_그래프/
- ┣ 📄 brand_mood_graph.py         # 전체 코드
- ┣ 📄 requirements.txt            # 필요한 패키지 목록
- ┗ 📄 README.md                   # 프로젝트 소개 파일 (바로 이 파일!)
 
 ## 🔍 주요 코드 예시
 
