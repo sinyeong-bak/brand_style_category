@@ -40,3 +40,9 @@ def create_mood_vector(row, moods):
         vector[moods.index(row['sub_mood_2'])] = 1
     return vector
 
+```
+
+## 결과
+![image](https://github.com/user-attachments/assets/99ef6f17-3c82-460c-978e-6cb130a5d716)
+![image](https://github.com/user-attachments/assets/6c0ca153-13f9-4e3e-98f0-d5a3f1b4da4c)
+
