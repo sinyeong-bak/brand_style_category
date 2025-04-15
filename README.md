@@ -13,7 +13,6 @@
 - cosine similarity를 활용한 브랜드 간 유사도 산출
 - 유사도 임계값(Threshold)을 기준으로 edge 생성
 - 무드 유형에 따라 브랜드를 컬러 노드로 시각화
-- `louvain_communities` 알고리즘을 통한 커뮤니티 감지
 
 ---
 
@@ -23,7 +22,7 @@
 |--------|------|
 | `pandas`, `numpy` | 데이터 처리 및 벡터 생성 |
 | `sklearn.metrics.pairwise.cosine_similarity` | 유사도 계산 |
-| `networkx` | 그래프 생성 및 커뮤니티 탐지 |
+| `networkx` | 그래프 생성 |
 | `matplotlib` | 네트워크 시각화 |
 
 ## 📁 파일 구성
